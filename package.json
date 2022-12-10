@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "encoding": "^0.1.12",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "js-md5": "^0.7.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
